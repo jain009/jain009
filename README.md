@@ -27,13 +27,11 @@ I am Fullstack web developer
 [jain009/Advanced-Plant-Analysis-Tool ](https://github.com/jain009/Advanced-Plant-Analysis-Tool)
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/jain009/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/jain009/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/https://github.com/jain009/output/github-snake.svg" />
+</picture>
 
 
 
